@@ -1,0 +1,32 @@
+{
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#8abdf3"
+    },
+    "[One Monokai]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#9ec9f7"
+    },
+    "[Community Material Theme Palenight High Contrast]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.background": "#1B1E2B",
+      "editor.foreground": "#cfdff0",
+      "sideBar.foreground": "#a1bcd8",
+      "list.activeSelectionForeground": "#ffff00",
+      "list.inactiveSelectionForeground": "#ffff00"
+    },
+    "[Community Material Theme Darker High Contrast]": {
+      "editor.background": "#1B1E2B",
+      "sideBar.background": "#1B1E2B",
+      "terminal.background": "#1B1E2B",
+      "editorLineNumber.foreground": "#a1bcd8"
+    },
+    "[Moonlight II Italic]": {
+      "editorLineNumber.foreground": "#a1bcd8"
+    },
+    "activityBar.background": "#133419",
+    "titleBar.activeBackground": "#1B4923",
+    "titleBar.activeForeground": "#F7FCF8"
+  }
+}
